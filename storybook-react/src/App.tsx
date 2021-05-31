@@ -4,6 +4,7 @@ import "./App.css";
 import { MyCoolButton } from "./components/sample-component/MyCoolButton";
 
 function App() {
+  //Some comment to test Sandbox
   return (
     <div className="App">
       <header className="App-header">
